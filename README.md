@@ -26,12 +26,12 @@ The Online Tutor Project is a web application designed to facilitate tutoring se
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/usamafayaz/OnlineTutor.git
+    git clone https://github.com/usamafayaz/online-tutor.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd OnlineTutor
+    cd online-tutor
     ```
 
 3. Open the project in Visual Studio.
